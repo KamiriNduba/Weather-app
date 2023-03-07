@@ -9,6 +9,7 @@ Getting Started.
 Prerequisites, to run this application, you will need:
 
 1.) A modern web browser
+
 2.) An internet connection
 
 
@@ -19,8 +20,11 @@ No installation is required to use this application. Simply open the index.html 
 Usage
 
 1.) Open the index.html file in your web browser.
+
 2.) Enter the location for which you would like to get the weather data.
+
 3.) Click the "Search" button.
+
 4.) The current weather data for the specified location will be displayed.
 
 
